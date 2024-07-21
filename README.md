@@ -7,23 +7,17 @@
 
 - 🔭 I’m currently working on **Azure Data Projects**
 
-- 🌱 I’m currently learning **Advanced SQL**
+- 🌱 I’m currently learning **Azure Data Analytics/Engineering services**
 
 - 👨‍💻 [**View my portfolio**](https://neerajguptaportfolio.netlify.app) to see all of my projects.
-
-- 📝 Explore detailed **blogs** on my **Data Engineering** and **BI Development** projects [**here.**](https://medium.com/@neeraj.gupta14111994)
-
-- 📊 Explore my **Tableau dashboards** [**here.**](https://public.tableau.com/app/profile/neeraj.gupta)
 
 - 💬 Ask me about **Data Engineering, Business Analytics, Data Science & BI Development**
 
 - ⚡ Fun fact **I enjoy solving complex puzzles**
 
+- 🍲 Chef's Hat Fun Fact: 🍳 **I can turn any kitchen into a 5-star restaurant!**
+
 - 📫 How to reach me **neeraj.gupta14111994@gmail.com**
-
-- 👨‍💻 Explore more about me by asking any questions to my chat bot here at my portfolio: [**Chat-Bot**](https://neerajguptaportfolio.netlify.app)
-
-- 🤗 Dive into my interactive projects on Hugging Face Spaces: [**Hugging Face Spaces**](https://huggingface.co/NeerajGupta)
   
 
 ## Skills
